@@ -25,13 +25,9 @@ Perfect for automation portfolios, AI agent demos, and advanced Python projects.
 🚀 Key Features
 
 🎯 Category-based intelligent search
-
 🧠 Autonomous query generation
-
 🤖 Automated YouTube navigation
-
 ⌨️ Interactive CLI using InquirerPy
-
 ⚡ Real-time browser automation with Selenium
 
 🔍 Cleaned & optimized search queries
@@ -101,6 +97,38 @@ VidAgent/
 │
 └── .env
 
+┌──────────────┐
+│   User CLI   │
+│ (InquirerPy) │
+└──────┬───────┘
+       │
+       ▼
+┌─────────────────────┐
+│ Category Selection  │
+│  (F1 / Anime / etc) │
+└──────┬──────────────┘
+       │
+       ▼
+┌─────────────────────┐
+│ Contextual Flow     │
+│ (Year, Stage, Type)│
+└──────┬──────────────┘
+       │
+       ▼
+┌─────────────────────┐
+│ Query Cleaner       │
+│ (Regex Optimization)│
+└──────┬──────────────┘
+       │
+       ▼
+┌─────────────────────┐
+│ Selenium Agent      │
+│ - Open YouTube      │
+│ - Search Video      │
+│ - Auto Play         │
+└─────────────────────┘
+
+
 🎯 Use Cases
 
 Automation demos
@@ -124,3 +152,4 @@ Python Developer | Automation | AI & Agentic Systems
 #VidAgent #PythonAutomation #YouTubeAutomation #Selenium
 #AgenticAI #AutonomousAgent #CLIApplications #AIProjects
 #DeveloperTools #OpenSource #BuildInPublic #PythonDeveloper
+
