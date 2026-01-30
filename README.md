@@ -97,6 +97,7 @@ VidAgent/
 │
 └── .env
 
+
 ┌──────────────┐
 │   User CLI   │
 │ (InquirerPy) │
@@ -152,4 +153,3 @@ Python Developer | Automation | AI & Agentic Systems
 #VidAgent #PythonAutomation #YouTubeAutomation #Selenium
 #AgenticAI #AutonomousAgent #CLIApplications #AIProjects
 #DeveloperTools #OpenSource #BuildInPublic #PythonDeveloper
-
